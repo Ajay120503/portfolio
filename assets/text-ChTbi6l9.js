@@ -1,1 +1,0 @@
-import{f as n,u as o,o as i,y as r,j as x,c as m,a as l}from"./index-D_4PJDtB.js";const f=n(function(a,t){const s=o("Text",a),{className:T,align:d,decoration:u,casing:y,...e}=i(a),c=r({textAlign:a.align,textDecoration:a.decoration,textTransform:a.casing});return x.jsx(m.p,{ref:t,className:l("chakra-text",a.className),...c,...e,__css:s})});f.displayName="Text";export{f as T};
